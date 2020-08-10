@@ -2,7 +2,7 @@
 Le TP1 a été réalisé par : -Menade Hamdaoui -Tarik Ouahbi
 		
 
-Sujet : application des Methodes Polymorphique et utilisation de l'outil Git
+Sujet : application des Methodes Polymorphiques et utilisation de l'outil Git
 
 1. Mise en contexte théorique
 1.1. Polymorphisme
