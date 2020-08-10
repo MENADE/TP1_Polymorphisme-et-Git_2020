@@ -21,8 +21,10 @@ public:
 
      double getTaux_Federal();
      double getTaux_Provincial();
-
-    virtual double getPaie_Bute() = 0;
+     
+     // //Methode virtuelle pure pour calculer paie Brute, nettes , impots CA et impots QC 
+   
+     virtual double getPaie_Bute() = 0;
 
     virtual double Impots_CA() = 0;
 
