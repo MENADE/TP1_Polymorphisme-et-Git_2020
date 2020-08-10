@@ -1,7 +1,5 @@
 # TP1_Polymorphisme-et-Git_2020
-# Le TP a été réalisé par deux étudiants :
-   -Menade Hamdaoui
-   -Tarik Ouahbi
+Le TP1 a été réalisé par : -Menade Hamdaoui -Tarik Ouahbi
 		
 
 Sujet : application des Methodes Polymorphique et utilisation de l'outil Git
